@@ -1,7 +1,7 @@
 # AlfaBankTest
 Тестовое задание для Альфа банка
 
-Здравствуйте, это мое тестовое задание.
+Здравствуйте меня зовут Семен Попов, это мое тестовое задание.
 
 Образ сервиса залит на dockerhub https://hub.docker.com/repository/registry-1.docker.io/ctyz1102/myalfarep/tags?page=1&ordering=last_updated
 
