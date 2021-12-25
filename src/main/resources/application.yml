@@ -1,0 +1,16 @@
+server:
+  servlet:
+    context-path: /currency
+  port: 8080
+
+logging:
+  level:
+    org.springframework.security: INFO
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 20000
